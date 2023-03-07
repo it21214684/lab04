@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="edtName">Enter Email</string>
+    <string name="edtEmail">Enter Email</string>
+    <string name="edtPassword">Enter Password</string>
+    <string name="edtReTypePassword" />
 </resources>
